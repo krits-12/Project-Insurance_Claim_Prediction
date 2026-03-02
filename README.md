@@ -1,7 +1,7 @@
 # Auto Insurance Claim Prediction
 
 ## Description
-A machine learning project to predict the likelihood of an auto insurance claim using binary classification.
+A machine learning project to predict the likelihood of an auto insurance claim. We engineered a cost-optimized XGBoost pipeline to predict insurance claims. By utilizing SMOTETomek and SHAP, we minimized financial liability and delivered transparent, actionable insights for smarter, data-driven underwriting decisions.
 
 ## Requirements
 - Python 3.10+
